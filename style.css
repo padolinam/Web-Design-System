@@ -1,0 +1,117 @@
+h1, h2 {
+    text-align: center;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.box {
+    border: 2px solid #222831;
+    border-radius: 10%;
+    padding: 10px;
+    margin: 10px auto;
+    width: max-content;
+    align-content: center;
+}
+
+.container {
+    border: 2px solid #222831;
+    border-radius: 10%;
+    width: 42%;
+    align-content: center;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+h2 {
+    padding-bottom: 10px;
+}
+
+.section-title {
+    margin: 30px 30px 30px 15px;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+}
+
+.color-block {
+    width: 40%;
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px;
+    margin-left: 5px;
+}
+
+#black.color-block {
+    background-color: #222831;
+    color: white;
+    display: inline-block;
+}
+
+#grey.color-block {
+    background-color: #393E46;
+    color: white;
+    display: inline-block;
+}
+
+#mint-green.color-block {
+    background-color: #00ADB5;
+    color: black;
+    display: inline-block;
+}
+
+#light-gray.color-block {
+    background-color: #EEEEEE;
+    color: black;
+    display: inline-block;
+}
+
+#pink.color-block {
+    background-color: #FF6B6B;
+    color: black;
+    display: inline-block;
+}
+
+#yellow.color-block {
+    background-color: #FFD93D;
+    color: black;
+    display: inline-block;
+}
+
+#green.color-block {
+    background-color: #6BCB77;
+    color: black;
+    display: inline-block;
+}
+
+#blue.color-block {
+    background-color: #4D96FF;
+    color: black;
+    display: inline-block;
+}
+
+.text-style {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.poppins {
+    font-family: "Poppins", sans-serif;
+}
+
+.noto-sans {
+    font-family: "Noto Sans", sans-serif;
+}
+
+#fonts.box {
+    padding: 10px 80px;
+}
